@@ -5,11 +5,13 @@
 In this wiki you will find available data for your server!
 
 You can search for:\
-💠 Materials\
-💠 Sounds\
-💠 Entity types\
-💠 Firework effect types\
-💠 Effects/Particles
+💠 [Materials](https://github.com/AlonsoAliaga/SpigotLinks/wiki/Materials)\
+💠 [Sounds](https://github.com/AlonsoAliaga/SpigotLinks/wiki/Sounds)\
+💠 [EntityTypes](https://github.com/AlonsoAliaga/SpigotLinks/wiki/EntityTypes)\
+💠 [FireworkEffect types](https://github.com/AlonsoAliaga/SpigotLinks/wiki/FireworkEffect-types)\
+💠 [Enchantments](https://github.com/AlonsoAliaga/SpigotLinks/wiki/Enchantments)\
+💠 [PotionEffect types](https://github.com/AlonsoAliaga/SpigotLinks/wiki/PotionEffect-types)\
+💠 [Effects/Particles](https://github.com/AlonsoAliaga/SpigotLinks/wiki/Effects-Particles)
 
 # **[🎉 Check the wiki NOW!](https://github.com/AlonsoAliaga/SpigotLinks/wiki)**
 
