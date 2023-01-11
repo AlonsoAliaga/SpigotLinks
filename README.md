@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/ot4gOdS.png)
+[![Logo](https://i.imgur.com/ot4gOdS.png)](https://alonsoaliaga.com/discord)
 # **Welcome to the SpigotLinks wiki!**
 😪 Tired of using the wrong material or sound in your config file?
 
